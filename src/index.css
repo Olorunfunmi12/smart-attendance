@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-msu-blue: #002147;
+  --color-msu-orange: #F58220;
+  --color-bg-gray: #F0F2F5;
+  --color-card-white: #FFFFFF;
+  --color-text-dark: #1A1A1A;
+  --color-text-muted: #64748B;
+  --color-border-color: #E2E8F0;
+  --color-success-green: #10B981;
+  --font-sans: 'Helvetica Neue', Arial, sans-serif;
+}
